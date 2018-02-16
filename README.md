@@ -7,4 +7,4 @@ Taciturne is an audio-visual performance that reflects personal journey through 
 
 ## Ableton Live Part
 - At the Z.Video tab, I designed a custom VJing system using VIZZable. 
-- ![alt shot](ableton_capture.png)
+![alt shot](ableton_capture.png)
