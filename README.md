@@ -5,6 +5,9 @@ Taciturne is an audio-visual performance that reflects personal journey through 
 - [Full version mov](https://www.youtube.com/watch?v=5IkgWBvUBzk)
 - Final Max file: 04MultisourceTransition.maxpat
 
+## Ableton Live Part
+- At the Z.Video tab, I designed a custom VJing system using VIZZable. 
+
 created by Yunho Choi, Yueping Wang
 music by Yunho Choi, Jonghun Ahn
 visuals by Dongjun Kim, Yunho Choi
