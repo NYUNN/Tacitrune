@@ -8,14 +8,3 @@ Taciturne is an audio-visual performance that reflects personal journey through 
 ## Ableton Live Part
 - At the Z.Video tab, I designed a custom VJing system using VIZZable. 
 - ![alt shot](ableton_capture.png)
-<img src="https://www.dropbox.com/s/eizx4u63mkkbv0r/ableton_capture%20copy.jpg?dl=0">
-
-created by Yunho Choi, Yueping Wang
-music by Yunho Choi, Jonghun Ahn
-visuals by Dongjun Kim, Yunho Choi
-dancing by Sarah Takash
-film by Dongchan Kim
-
-performed at LIPP final show, 
-ITP (Interactive Telecommunications Program),
-NYU Tisch School of the Arts
