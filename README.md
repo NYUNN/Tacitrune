@@ -7,6 +7,7 @@ Taciturne is an audio-visual performance that reflects personal journey through 
 
 ## Ableton Live Part
 - At the Z.Video tab, I designed a custom VJing system using VIZZable. 
+- [Screenshot](https://www.dropbox.com/s/kvff448e3kug5tb/ableton_capture.png?dl=0)
 
 created by Yunho Choi, Yueping Wang
 music by Yunho Choi, Jonghun Ahn
